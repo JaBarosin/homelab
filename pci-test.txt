@@ -1,0 +1,1 @@
+# PCI 11.5 example iocs Use the change detection mechanism to alert unauthorized changes to critical system files, configuration files or content files, and configure the software to perform critical file comparisons at least once a week
